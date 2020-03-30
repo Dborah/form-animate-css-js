@@ -11,3 +11,9 @@
 - [x] 5 - Adicionar um efeito diferente de timing para a saída do formulário.
 - [x] 6 - Fazer o formulário vibrar caso haja campos vazios.
 - [x] 7- Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo de visão também). Detalhes: Deve ter tamanhos diferentes, sairem em momentos diferentes, terem timing diferente, animação contínua.
+
+#### Sample
+
+<p align="center">
+  <img src="https://github.com/Dborah/form-animate-css-js/blob/master/samples/sample.gif" alt="Form Animate with CSS and JS" />
+</p>
